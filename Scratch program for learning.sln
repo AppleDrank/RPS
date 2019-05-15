@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scratch program for learning", "Scratch program for learning\Scratch program for learning.csproj", "{822A3DA3-8B6F-4B7C-AE53-E5895607A231}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{822A3DA3-8B6F-4B7C-AE53-E5895607A231}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{822A3DA3-8B6F-4B7C-AE53-E5895607A231}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{822A3DA3-8B6F-4B7C-AE53-E5895607A231}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{822A3DA3-8B6F-4B7C-AE53-E5895607A231}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD8658F2-5F53-457B-B011-9AB619E4D2EA}
+	EndGlobalSection
+EndGlobal
